@@ -70,8 +70,8 @@ class Ui_dlgLogin(object):
         self.label_3.setText(QtGui.QApplication.translate("dlgLogin", "验证码：", None, QtGui.QApplication.UnicodeUTF8))
         self.btnLogin.setText(QtGui.QApplication.translate("dlgLogin", "登录", None, QtGui.QApplication.UnicodeUTF8))
         self.btnRefresh.setText(QtGui.QApplication.translate("dlgLogin", "刷新", None, QtGui.QApplication.UnicodeUTF8))
-        self.txtUsername.setText(QtGui.QApplication.translate("dlgLogin", "13627033633", None, QtGui.QApplication.UnicodeUTF8))
-        self.txtPasswd.setText(QtGui.QApplication.translate("dlgLogin", "huyun1204", None, QtGui.QApplication.UnicodeUTF8))
+        self.txtUsername.setText(QtGui.QApplication.translate("dlgLogin", "-", None, QtGui.QApplication.UnicodeUTF8))
+        self.txtPasswd.setText(QtGui.QApplication.translate("dlgLogin", "-", None, QtGui.QApplication.UnicodeUTF8))
 
 
 if __name__ == "__main__":
